@@ -18,25 +18,23 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Comments Not Required
+title: STEM Education Website
 title-logo: /assets/images/title-logo.png
-title-logo2: /assets/images/title-logo2.png
+# title-logo2: /assets/images/title-logo2.png
 
-email: nicholasliu2015@gmail.com
+email: contact@e2stem.org.kh
 description: >- # this means to ignore newlines until "baseurl:"
-  Thank you for visiting my site! As is life, this is still very much a work in
-  progress, but I hope you enjoy learning random things about me :)
+  the site for STEM and tech help videos
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://liunicholas.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://cambodiagsc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title/
 
-instagram_username: bickolas.liu
-github_username:  liunicholas
-facebook_username: bickolasliu
-linkedin_username: nicholasxliu
+instagram_username: replace this
+github_username:  CambodiaGSC
+facebook_username: e2stem
 
-author: Nicholas Liu
+author: E2STEM
 # copyright: "non existent"
 
 future: true

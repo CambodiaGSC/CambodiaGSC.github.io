@@ -7,19 +7,19 @@
     <!-- <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a> -->
 
     <!-- title with logo -->
-    <a class="site-title" rel="author" href="{{ '/home/' | relative_url }}">
+    <a class="site-title" rel="author" href="{{ '/' | relative_url }}">
       {%- if site.title-logo2 -%}
         <img class="hovershadow" src="{{ site.title-logo2 | relative_url }}" alt="{{ site.title | escape }}">
         <!-- {{ site.title | escape }} -->
-        {%- elsif site.title-logo -%}
-          <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}">
-          {{ site.title | escape }}
-        {%- else -%}
-          {{ site.title | escape }}
+      {%- elsif site.title-logo -%}
+        <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}">
+        <!-- {{ site.title | escape }} -->
+      {%- else -%}
+        {{ site.title | escape }}
       {%- endif -%}
     </a>
 
-    <p class="site-title"> &nbsp; ~ A Documentation of Nicholas Liu </p>
+    <p class="site-title"> STEM Education Website </p>
 
     {%- if page_paths -%}
       <nav class="site-nav">
