@@ -24,7 +24,7 @@ title-logo: /assets/images/title-logo.png
 
 email: contact@e2stem.org.kh
 description: >- # this means to ignore newlines until "baseurl:"
-  the site for STEM and tech help videos
+  the site for STEM videos
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cambodiagsc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
