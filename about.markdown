@@ -13,3 +13,5 @@ spec_title: About Us and Our Mission
 I'm maneath, I like green.
 
 I'm Michael, I like yellow.
+
+I'm Thyrak, I love Blue.
