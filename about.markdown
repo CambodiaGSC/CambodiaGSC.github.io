@@ -8,3 +8,5 @@ spec_title: About Us and Our Mission
 <img src="/assets/images/teamPicture.png" alt="E2STEM logo" width="75%" class="center">
 #### Hi! We are the FIRST GSC Cambodia team—
 #### &nbsp;&nbsp;&nbsp;&nbsp; text
+
+I'm panha, and I like the color yellow.
