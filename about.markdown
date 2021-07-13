@@ -14,3 +14,4 @@ I'm maneath, I like green.
 
 I'm Michael, I like yellow.
 I'm Sinet,I like red.
+I'm panha, I like blue and red.
