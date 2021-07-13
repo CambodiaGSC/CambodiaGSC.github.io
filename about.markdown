@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Us អំពីពួកយើង
+title: អំពីយើង
 permalink: /about/
 order: 1
 spec_title: About Us and Our Mission
