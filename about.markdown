@@ -9,4 +9,5 @@ spec_title: About Us and Our Mission
 #### Hi! We are the FIRST GSC Cambodia team—
 #### &nbsp;&nbsp;&nbsp;&nbsp; text
 
-I'm panha, and I like the color yellow.
+
+I'm maneath, I like green.
