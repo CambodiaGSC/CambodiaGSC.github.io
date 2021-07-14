@@ -30,7 +30,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cambodiagsc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:title/
 
-instagram_username: replace this
+instagram_username: teamcambodiafgc
 github_username:  CambodiaGSC
 facebook_username: e2stem
 
