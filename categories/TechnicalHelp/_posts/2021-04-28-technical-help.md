@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "technical help template"
-date:   2021-04-28
+title:  "Zoom Help"
+date:   2021-07-20
 category: Technical Help
 published: True
 ---
