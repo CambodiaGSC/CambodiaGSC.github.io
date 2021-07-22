@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "chemistry ពិសោធន៍ការពង្រាវអាល់គុល"
+title:  "chemistry ពិសោធន៍ការពង្រាវអាល់កុល"
 date:   2021-04-28
 category: Chemistry
 published: True
