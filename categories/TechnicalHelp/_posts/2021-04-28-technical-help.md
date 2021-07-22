@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "How to use Zoom meeting"
 title:  "របៀបក្នុងប្រើប្រាស់កម្មវធី ZOOM"
 date:   2021-07-20
 category: Technical Help
