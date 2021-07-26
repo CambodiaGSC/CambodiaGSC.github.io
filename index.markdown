@@ -5,7 +5,7 @@
 layout: home
 permalink: /
 list_title: Featured Posts
-web_title: E2STEM | STEM Education
+web_title: E2STEM | STEM Exp-Support
 ---
 
 Here are some of our featured posts!
