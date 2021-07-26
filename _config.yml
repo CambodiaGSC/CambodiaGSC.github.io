@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: STEM experiment Support
+title: STEM Exp-Support
 ---
 title-logo: /assets/images/title-logo.png
 # title-logo2: /assets/images/title-logo2.png
