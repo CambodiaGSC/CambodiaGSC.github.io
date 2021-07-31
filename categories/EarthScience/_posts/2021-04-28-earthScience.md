@@ -5,7 +5,4 @@ date:   2021-04-28
 category: EarthScience
 published: True
 ---
-<video width="75%" style="padding-bottom:20px;" class="center" controls>
-  <source src="/categories/random/assets/postImages/VIDEO_NAME.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uvBBkzHyW1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
