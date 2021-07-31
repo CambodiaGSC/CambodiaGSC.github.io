@@ -5,7 +5,7 @@ permalink: /about/
 order: 1
 spec_title: About Us and Our Mission
 ---
-<img width="100" height="57" src="https://learning.e2stem.tech/pluginfile.php/1/core_admin/logo/0x200/1595828280/logoe2.png" class="img-fluid" title="Learning at e2STEM" alt="Learning at e2STEM" id="yui_3_17_2_1_1627303032907_19">
+<img width="100" height="57 " src="https://learning.e2stem.tech/pluginfile.php/1/core_admin/logo/0x200/1595828280/logoe2.png" class="img-fluid" title="Learning at e2STEM" alt="Learning at e2STEM" id="yui_3_17_2_1_1627303032907_19">
 ---
 <img width="800" height="450" src="https://i.ibb.co/kxwCYHD/IMG-2410.jpg" alt="IMG-2410" border="0">
 ---
