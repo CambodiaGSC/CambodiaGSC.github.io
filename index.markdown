@@ -8,4 +8,4 @@ list_title: Featured Posts
 web_title: E2STEM | STEM experiment Support
 ---
 
-Here are some of our featured posts!
+featured posts!
