@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Earth Science template"
+title:  "simulation របស់ប្រព័ន្ធព្រះអាទិត្យ (Solar System)"
 date:   2021-04-28
 category: EarthScience
 published: True
