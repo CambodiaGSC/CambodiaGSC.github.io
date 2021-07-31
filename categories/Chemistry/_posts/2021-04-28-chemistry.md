@@ -7,6 +7,4 @@ published: True
 ---
 <iframe src="https://www.youtube.com/embed/8w2vzyDUFRI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
-<img width="560" height="600" src="https://media.discordapp.net/attachments/782628811782881310/870894677954535434/photo_2021-07-29_19-38-20.jpg?width=414&amp;height=586" style="width: 1448px; height: 2048px;">
----
-<img src="https://i.ibb.co/BPnZqQX/c1.jpg" style="width: 1448px; height: 2048px;">
+<img src="https://i.ibb.co/25KF6K9/photo-2021-07-31-12-44-34.jpg" style="width: 1448px; height: 2048px;">
