@@ -11,10 +11,10 @@
 }
 
 .footerLink {
-  color: #121321 !important;
+  color: #0018FF !important;
   /* text-decoration: none !important; */
 }
-a {color:#000000;}         /* Unvisited link  */
-a:visited {color:#121321} /* Visited link    */
-a:hover {color:#0645ad;}   /* Mouse over link */
+a {color:#0018FF;}         /* Unvisited link  */
+a:visited {color:#0018FF} /* Visited link    */
+a:hover {color:#0018FF;}   /* Mouse over link */
 a:active {color:#000000;}  /* Selected link   */
