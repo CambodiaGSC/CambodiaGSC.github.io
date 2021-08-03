@@ -10,11 +10,6 @@ web_title: E2STEM | STEM experiment Support
 
 <img src="https://i.ibb.co/CsSYhRh/photo-2021-07-31-14-43-02.jpg" alt="photo-2021-07-31-14-43-02" border="0">
 
-<h1 style="background-color:DodgerBlue;">Team Cambodia</h1>
+<h3 style="color:Tomato;">Team Cambodia</h3>
 
-<p style="background-color:Tomato;">ពួកយើងមកទីនេះដើម្បីជួយអ្នកទាំងអស់គ្នាអំពីការរៀនជាមួយនិង ការអនុវត្តន៏ ហើយនេះជាដណើរកាសាកល្បងរបស់ពួកយើង
-
-</p>
-
-</body>
-</html>
+<p style="color:MediumSeaGreen;">ពួកយើងមកទីនេះដើម្បីជួយអ្នកទាំងអស់គ្នាអំពីការរៀនជាមួយនិង ការអនុវត្តន៏ ហើយនេះជាដណើរកាសាកល្បងរបស់ពួកយើង</p>
