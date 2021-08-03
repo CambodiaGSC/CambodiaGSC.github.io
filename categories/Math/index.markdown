@@ -6,5 +6,4 @@ layout: home-Math
 title: "Math"
 category: Math
 order: 5
-list_title: ""
 ---

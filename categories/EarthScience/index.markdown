@@ -6,5 +6,4 @@ layout: home-EarthScience
 title: "Earth Science"
 category: EarthScience
 order: 4
-list_title: videos"
 ---
