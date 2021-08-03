@@ -17,4 +17,4 @@
 a {color:#0018FF;}         /* Unvisited link  */
 a:visited {color:#0018FF} /* Visited link    */
 a:hover {color:#0018FF;}   /* Mouse over link */
-a:active {color:#000000;}  /* Selected link   */
+a:active {color:#0018FF;}  /* Selected link   */
