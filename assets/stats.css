@@ -15,6 +15,6 @@
   /* text-decoration: none !important; */
 }
 a {color:#000000;}         /* Unvisited link  */
-a:visited {color:#000000} /* Visited link    */
+a:visited {color:#121321} /* Visited link    */
 a:hover {color:#0645ad;}   /* Mouse over link */
 a:active {color:#000000;}  /* Selected link   */
