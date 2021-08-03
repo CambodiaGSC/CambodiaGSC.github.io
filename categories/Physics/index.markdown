@@ -6,5 +6,5 @@ layout: home-Physics
 title: "Physics"
 category: Physics
 order: 6
-list_title: "videos"
+list_title: ""
 ---

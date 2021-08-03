@@ -6,5 +6,5 @@ layout: home-Chemistry
 title: "Chemistry"
 category: Chemistry
 order: 3
-list_title: "videos"
+list_title: ""
 ---

@@ -6,5 +6,5 @@ layout: home-Biology
 title: "Biology"
 category: Biology
 order: 2
-list_title: "projects"
+list_title: ""
 ---
