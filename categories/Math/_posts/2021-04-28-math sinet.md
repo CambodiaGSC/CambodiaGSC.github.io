@@ -22,6 +22,3 @@ body {
 <iframe width="800" height="450" src="https://www.youtube.com/embed/lwKoKVK7cwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 <img src="https://i.ibb.co/WH9jwP7/photo-2021-08-04-22-44-57.jpg" style="565" height="900">
-
-</body>
-</html>
