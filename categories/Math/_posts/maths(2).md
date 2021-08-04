@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ពិសោធន៏ទ្រីស្តីបទពីតាគ័រ"
+title:  "របៀបមើលការប្រាក់ប្រាក់ដើមនិងចំនួនទឹកប្រាក់សរុបដើម្បីបង់ធនាគារ"
 date:   2021-04-28
 category: Math
 published: True
@@ -10,7 +10,7 @@ list tittle: "videos"
 <head>
 <style>
 body {
-  background-color: #E85252;
+  background-color: #F1EB3B;
 }
 </style>
 </head>
@@ -20,9 +20,9 @@ body {
 The video and poster below is a simulation of the theory from the cartoon made by student Ngov Seng Pov Panha from class 10.2 of E2stem.
 វីដេអូនិងposterខាងក្រោមនេះជាការពិសោធន៏ទ្រីស្តីបទពីតាគ័រដែលធ្វើដោយសិស្សឈ្មោះ ង៉ូវសេង ពៅបញ្ញា មកពីថ្នាក់ ​10.2នៃសាលាE2stem។
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/ffsSX57VRgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="450" src="https://www.youtube.com/embed/lwKoKVK7cwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
-<img src="https://i.ibb.co/3m9DK7h/image.png"style="565" height="900">
+<img src="https://i.ibb.co/WH9jwP7/photo-2021-08-04-22-44-57.jpg"style="565" height="900">
 
 </body>
 </html>

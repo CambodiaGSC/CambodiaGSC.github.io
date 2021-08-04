@@ -22,7 +22,7 @@ The video and poster below is a simulation of the Solar System by a student name
 
 <iframe width="800" height="450" src="https://www.youtube.com/embed/uvBBkzHyW1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
-<img width="800" height="450" src="https://i.ibb.co/vhZrhWg/photo-2021-07-31-14-54-08.jpg" style ="width: 2000px; height: 2048px;">
+<img width="800" height="450" src="https://i.ibb.co/vhZrhWg/photo-2021-07-31-14-54-08.jpg"style="565" height="900">
 
 </p>
 
