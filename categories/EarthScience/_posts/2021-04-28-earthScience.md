@@ -2,7 +2,7 @@
 layout: post
 title:  "simulation របស់ប្រព័ន្ធព្រះអាទិត្យ (Solar System)"
 date:   2021-04-28
-category: EarthScience
+category: EarthScience(ផែនដីវិទ្យា)
 published: True
 ---
 វីដេអូនិងposterខាងក្រោមនេះជាការធ្វើsimulation របស់ប្រព័ន្ធព្រះអាទិត្យ (Solar System)ដែលធ្វើដោយសិស្សឈ្មោះ Nho Tomaneath មកពីថ្នាក់ 10.3 ​ នៃសាលាE2stem។
