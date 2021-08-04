@@ -2,7 +2,7 @@
 layout: post
 title:  "simulation របស់ប្រព័ន្ធព្រះអាទិត្យ (Solar System)"
 date:   2021-04-28
-category: EarthScience(ផែនដីវិទ្យា)
+category: EarthScience
 published: True
 list tittle: "videos"
 ---

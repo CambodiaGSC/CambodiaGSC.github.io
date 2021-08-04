@@ -2,7 +2,7 @@
 layout: post
 title:  "chemistry ពិសោធន៍ការពង្រាវអាល់កុល"
 date:   2021-04-28
-category: Chemistry(គីមីវិទ្យា)
+category: Chemistry
 published: True
 list tittle: "videos"
 ---
