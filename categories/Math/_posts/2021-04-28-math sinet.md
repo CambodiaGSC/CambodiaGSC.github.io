@@ -17,7 +17,7 @@ body {
 <body>
 
 <p>
- The video and poster below is a experiment and demonstration of interest made by a student named Pan syNet from Grade 10.5 of E2stem School.
+ The video and poster below is a experiment and demonstration of interest made by a student named Pan Sinet from Grade 10.5 of E2stem School.
 វីដេអូនិងposterខាងក្រោមនេះជាការពិសោធន៏និងបង្ហាញនៃការប្រាក់ដែលធ្វើដោយសិស្សឈ្មោះ ផន សុីណែត មកពីថ្នាក់ ​10.5នៃសាលាE2stem។
 <iframe width="800" height="450" src="https://www.youtube.com/embed/lwKoKVK7cwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
