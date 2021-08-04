@@ -8,7 +8,19 @@ list_title: Featured Posts
 web_title: E2STEM | STEM experiment Support
 ---
 
-<img src="https://i.ibb.co/CsSYhRh/photo-2021-07-31-14-43-02.jpg" width="800" height="450">
+
+<html>
+<head>
+<style>
+body {
+  background-color: #9BAAAD;
+}
+</style>
+</head>
+<body>
+
+<p>
+<img src="https://i.ibb.co/CsSYhRh/photo-2021-07-31-14-43-02.jpg" width="820" height="450">
 
 
 <html>
