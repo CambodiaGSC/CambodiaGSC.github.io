@@ -17,9 +17,8 @@ body {
 <body>
 
 <p>
-The video and poster below is a simulation of the theory from the cartoon made by student Ngov Seng Pov Panha from class 10.2 of E2stem.
-វីដេអូនិងposterខាងក្រោមនេះជាការពិសោធន៏ទ្រីស្តីបទពីតាគ័រដែលធ្វើដោយសិស្សឈ្មោះ ង៉ូវសេង ពៅបញ្ញា មកពីថ្នាក់ ​10.2នៃសាលាE2stem។
-
+Eng Ver: The video and poster below is a experiment and demonstration of interest made by a student named Pansy Net from Grade 10.5 of E2stem School.
+វីដេអូនិងposterខាងក្រោមនេះជាការពិសោធន៏និងបង្ហាញនៃការប្រាក់ដែលធ្វើដោយសិស្សឈ្មោះ ផន សុីណែត មកពីថ្នាក់ ​10.5នៃសាលាE2stem។
 <iframe width="800" height="450" src="https://www.youtube.com/embed/lwKoKVK7cwI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ---
 <img src="https://i.ibb.co/WH9jwP7/photo-2021-08-04-22-44-57.jpg"style="565" height="900">
