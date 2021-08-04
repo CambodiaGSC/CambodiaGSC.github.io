@@ -8,7 +8,7 @@ list_title: Featured Posts
 web_title: E2STEM | STEM experiment Support
 ---
 
-<img src="https://i.ibb.co/CsSYhRh/photo-2021-07-31-14-43-02.jpg" alt="photo-2021-07-31-14-43-02" border="0">
+<img src="https://i.ibb.co/CsSYhRh/photo-2021-07-31-14-43-02.jpg" width="800" height="450">
 
 
 <html>
