@@ -12,4 +12,4 @@ web_title: E2STEM | STEM experiment Support
 
 <h3 style="color:Tomato;">Team Cambodia</h3>
 
-<p style="color:MediumSeaGreen;">ពួកយើងមកទីនេះដើម្បីជួយអ្នកទាំងអស់គ្នាអំពីការរៀនជាមួយនិង ការអនុវត្តន៏ ហើយនេះជាដណើរកាសាកល្បងរបស់ពួកយើង</p>
+<p style="color:MediumSeaGreen;">ពួកយើងមកទីនេះដើម្បីជួយអ្នកទាំងអស់គ្នាអំពីការរៀនជាមួយនិង ការអនុវត្តន៏ ហើយនេះជាដណើរករាសាកល្បងរបស់ពួកយើង</p>
