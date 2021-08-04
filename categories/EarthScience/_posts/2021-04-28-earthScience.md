@@ -6,7 +6,6 @@ category: EarthScience
 published: True
 list tittle: "videos"
 ---
-<!DOCTYPE html>
 <html>
 <head>
 <style>
