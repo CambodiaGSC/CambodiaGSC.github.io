@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-04T22:19:36-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">STEM Experiment Support</title><subtitle>the site for STEM videos</subtitle><author><name>E2STEM</name></author><entry><title type="html">របៀបក្នុងប្រើប្រាស់កម្មវធី ZOOM</title><link href="http://localhost:4000/categories/technicalhelp/technical%20help/technical-help/" rel="alternate" type="text/html" title="របៀបក្នុងប្រើប្រាស់កម្មវធី ZOOM" /><published>2021-07-20T00:00:00-07:00</published><updated>2021-07-20T00:00:00-07:00</updated><id>http://localhost:4000/categories/technicalhelp/technical%20help/technical-help</id><content type="html" xml:base="http://localhost:4000/categories/technicalhelp/technical%20help/technical-help/">&lt;html&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-27T13:59:28-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">STEM Experiment Support</title><subtitle>the site for STEM videos</subtitle><author><name>E2STEM</name></author><entry><title type="html">របៀបក្នុងប្រើប្រាស់កម្មវធី ZOOM</title><link href="http://localhost:4000/categories/technicalhelp/technical%20help/technical-help/" rel="alternate" type="text/html" title="របៀបក្នុងប្រើប្រាស់កម្មវធី ZOOM" /><published>2021-07-20T00:00:00-07:00</published><updated>2021-07-20T00:00:00-07:00</updated><id>http://localhost:4000/categories/technicalhelp/technical%20help/technical-help</id><content type="html" xml:base="http://localhost:4000/categories/technicalhelp/technical%20help/technical-help/">&lt;html&gt;
 &lt;head&gt;
 &lt;style&gt;
 body {
@@ -89,7 +89,7 @@ The video and poster below is an experiment on the solubility of ions and covale
 &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;https://www.youtube.com/embed/pv1sluyy5yw&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 ---
 &lt;img src=&quot;https://i.ibb.co/BPnZqQX/c1.jpg&quot; style=&quot;565&quot; height=&quot;900&quot; /&gt;
-&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</content><author><name>E2STEM</name></author><category term="Chemistry" /><summary type="html"></summary></entry><entry><title type="html">របៀបមើលការប្រាក់ប្រាក់ដើមនិងចំនួនទឹកប្រាក់សរុបដើម្បីបង់ធនាគារ</title><link href="http://localhost:4000/categories/math/math-sinet/" rel="alternate" type="text/html" title="របៀបមើលការប្រាក់ប្រាក់ដើមនិងចំនួនទឹកប្រាក់សរុបដើម្បីបង់ធនាគារ" /><published>2021-04-28T00:00:00-07:00</published><updated>2021-04-28T00:00:00-07:00</updated><id>http://localhost:4000/categories/math/math%20sinet</id><content type="html" xml:base="http://localhost:4000/categories/math/math-sinet/">&lt;html&gt;
+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</content><author><name>E2STEM</name></author><category term="Chemistry" /><summary type="html"></summary></entry><entry><title type="html">របៀបមើលការប្រាក់ប្រាក់ដើមនិងចំនួនទឹកប្រាក់សរុបដើម្បីបង់ធនាគារ</title><link href="http://localhost:4000/categories/math/mathematic/math-sinet/" rel="alternate" type="text/html" title="របៀបមើលការប្រាក់ប្រាក់ដើមនិងចំនួនទឹកប្រាក់សរុបដើម្បីបង់ធនាគារ" /><published>2021-04-28T00:00:00-07:00</published><updated>2021-04-28T00:00:00-07:00</updated><id>http://localhost:4000/categories/math/mathematic/math%20sinet</id><content type="html" xml:base="http://localhost:4000/categories/math/mathematic/math-sinet/">&lt;html&gt;
 &lt;head&gt;
 &lt;style&gt;
 body {
@@ -105,24 +105,7 @@ body {
 &lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;https://www.youtube.com/embed/lwKoKVK7cwI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 ---
 &lt;img src=&quot;https://i.ibb.co/WH9jwP7/photo-2021-08-04-22-44-57.jpg&quot; style=&quot;565&quot; height=&quot;900&quot; /&gt;
-&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</content><author><name>E2STEM</name></author><category term="Math" /><summary type="html"></summary></entry><entry><title type="html">ពិសោធន៏ទ្រីស្តីបទពីតាគ័រ</title><link href="http://localhost:4000/categories/math/math/" rel="alternate" type="text/html" title="ពិសោធន៏ទ្រីស្តីបទពីតាគ័រ" /><published>2021-04-28T00:00:00-07:00</published><updated>2021-04-28T00:00:00-07:00</updated><id>http://localhost:4000/categories/math/math</id><content type="html" xml:base="http://localhost:4000/categories/math/math/">&lt;html&gt;
-&lt;head&gt;
-&lt;style&gt;
-body {
-  background-color: #E85252;
-}
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-
-&lt;p&gt;
-The video and poster below is a simulation of the theory from the cartoon made by student Ngov Seng Pov Panha from class 10.2 of E2stem.
-វីដេអូនិងposterខាងក្រោមនេះជាការពិសោធន៏ទ្រីស្តីបទពីតាគ័រដែលធ្វើដោយសិស្សឈ្មោះ ង៉ូវសេង ពៅបញ្ញា មកពីថ្នាក់ ​10.2នៃសាលាE2stem។
-
-&lt;iframe width=&quot;800&quot; height=&quot;450&quot; src=&quot;https://www.youtube.com/embed/ffsSX57VRgc&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
----
-&lt;img src=&quot;https://i.ibb.co/3m9DK7h/image.png&quot; style=&quot;565&quot; height=&quot;900&quot; /&gt;
-&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</content><author><name>E2STEM</name></author><category term="Math" /><summary type="html"></summary></entry><entry><title type="html">ការពិសោធន៍សៀគ្វីសេរីនិងខ្នែង</title><link href="http://localhost:4000/categories/physics/physics/" rel="alternate" type="text/html" title="ការពិសោធន៍សៀគ្វីសេរីនិងខ្នែង" /><published>2021-04-28T00:00:00-07:00</published><updated>2021-04-28T00:00:00-07:00</updated><id>http://localhost:4000/categories/physics/physics</id><content type="html" xml:base="http://localhost:4000/categories/physics/physics/">&lt;html&gt;
+&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</content><author><name>E2STEM</name></author><category term="Mathematic" /><summary type="html"></summary></entry><entry><title type="html">math template</title><link href="http://localhost:4000/categories/math/mathematic/math/" rel="alternate" type="text/html" title="math template" /><published>2021-04-28T00:00:00-07:00</published><updated>2021-04-28T00:00:00-07:00</updated><id>http://localhost:4000/categories/math/mathematic/math</id><content type="html" xml:base="http://localhost:4000/categories/math/mathematic/math/"></content><author><name>E2STEM</name></author><category term="Mathematic" /><summary type="html"></summary></entry><entry><title type="html">ការពិសោធន៍សៀគ្វីសេរីនិងខ្នែង</title><link href="http://localhost:4000/categories/physics/physics/" rel="alternate" type="text/html" title="ការពិសោធន៍សៀគ្វីសេរីនិងខ្នែង" /><published>2021-04-28T00:00:00-07:00</published><updated>2021-04-28T00:00:00-07:00</updated><id>http://localhost:4000/categories/physics/physics</id><content type="html" xml:base="http://localhost:4000/categories/physics/physics/">&lt;html&gt;
 &lt;head&gt;
 &lt;style&gt;
 body {
