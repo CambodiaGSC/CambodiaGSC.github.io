@@ -4,6 +4,7 @@
 
 layout: home-Math
 title: "Math"
-category: Math
+category: Mathematics
 order: 5
+list_title: "videos"
 ---
