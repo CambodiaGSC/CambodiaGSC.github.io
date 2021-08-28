@@ -5,6 +5,6 @@
 layout: home-TechnicalHelp
 title: "Technical Help"
 category: Technical Help
-order: 7
+order: 6
 list_title: "videos"
 ---
