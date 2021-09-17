@@ -2,7 +2,7 @@
 layout: post
 title:  "របៀបមើលការប្រាក់ប្រាក់ដើមនិងចំនួនទឹកប្រាក់សរុបដើម្បីបង់ធនាគារ"
 date:   2021-04-28
-category: Math
+category: Mathematic
 published: True
 list tittle: "videos"
 ---

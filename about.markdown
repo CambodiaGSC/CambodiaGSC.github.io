@@ -2,7 +2,7 @@
 layout: page
 title: About us
 permalink: /about/
-order: 1
+order: 7
 spec_title: About Us and Our Mission
 ---
 
