@@ -26,9 +26,9 @@ The video and poster below is a simulation of the Solar System by a student name
   
 If you want to practice this lesson, we have a game for you in the link below.
 Please click the link below to play the game.
- <a href="url"> https://your1405.github.io/edu-lab/pages/earth-sciences/earth-sciences.html </a> 
+ <a href="https://your1405.github.io/edu-lab/pages/earth-sciences/earth-sciences.html"> Earth Science Game </a> 
 
-</p>
+</p> 
 
 </body>
 </html>
