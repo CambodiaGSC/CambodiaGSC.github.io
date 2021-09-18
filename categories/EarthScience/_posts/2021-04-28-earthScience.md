@@ -24,7 +24,8 @@ The video and poster below is a simulation of the Solar System by a student name
 ---
 <img width="800" height="450" src="https://i.ibb.co/vhZrhWg/photo-2021-07-31-14-54-08.jpg" style="565" height="900">
   
-If you want you play game and practice this lesson please click the link below.
+If you want to practice this lesson, we have a game for you in the link below.
+Please click the link below to play the game.
  <a href="url"> https://your1405.github.io/edu-lab/pages/earth-sciences/earth-sciences.html </a> 
 
 </p>
